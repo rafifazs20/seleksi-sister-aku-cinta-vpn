@@ -64,5 +64,4 @@ Berikut adalah bukti dokumentasi pengujian bahwa terowongan kriptografi berfungs
 
 **Keberhasilan Transfer File > 2MB:** Terlampir tangkapan layar penggunaan wget dari Client yang sukses menarik file acak (rahasia.bin) berukuran 5MB dari Python HTTP Server milik Server melalui terowongan VPN rahasia tanpa putus. 
 ![Bukti Transfer File](file-berhasil-dikirim-dan-diterima.png)
-
-(Opsional: Tautkan link YouTube/Google Drive ke Video Demonstrasi penjelasan program di sini).
+https://drive.google.com/file/d/1NgUorg95SIp-VvcMJK4BZEp5QnHwavY9/view?usp=drive_link
